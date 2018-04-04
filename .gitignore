@@ -1,6 +1,6 @@
 #Comment
 temporary_file.txt
-temp_file2.txt
+tempfile2.txt
 *.zip 
 *.gz
 log/*.log
